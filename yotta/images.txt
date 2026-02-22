@@ -1,0 +1,12 @@
+yottalabsai/pytorch:2.9.0-py3.11-cuda12.8.1-cudnn-devel-ubuntu22.04
+yottalabsai/unsloth:0.6.9-py3.11-cuda12.1-cudnn-devel-ubuntu22.04
+yottalabsai/miles:py3.11-cuda12.1-cudnn-devel-ubuntu22.04
+yottalabsai/skyrl:ray2.51-py3.11-cuda12.1-cudnn-devel-ubuntu22.04
+yottalabsai/comfyui:cuda12.8.1-ubuntu22.04-2025102101
+yottalabsai/comfyui-nunchaku:cuda12.8.1-ubuntu22.04-2025102101
+yottalabsai/qwen:vllm-cuda12.8.1-ubuntu22.04-2025102101
+yottalabsai/wan2.2:comfyui-cuda12.8.1-ubuntu22.04-2025102101
+yottalabsai/flux1.dev:comfyui-cuda12.8.1-ubuntu22.04-2025102101
+yottalabsai/pytorch:2.8.0-py3.11-cuda12.8.1-cudnn-devel-ubuntu22.04-2025081902
+yottalabsai/dflash:py3.11-cuda12.8.1-cudnn-devel-ubuntu22.04
+yottalabsai/openclaw:py3.11-cuda12.8-cudnn-devel-ubuntu22.04
