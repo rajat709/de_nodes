@@ -1,0 +1,4 @@
+x-series==high
+nova-series==low
+orion-series==medium
+atlas-series==high
