@@ -1,4 +1,4 @@
-x-series==high
-nova-series==low
-orion-series==medium
-atlas-series==high
+x-series==high availability
+nova-series==low availability
+orion-series==medium availability
+atlas-series==high availability
