@@ -1,3 +1,4 @@
-B200_SPOT
-H200_SPOT
+B200_Spot
+B200_OnDemand
+H200_Spot
 H200_OnDemand
