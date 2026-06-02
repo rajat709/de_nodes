@@ -1,0 +1,3 @@
+B200_SPOT
+H200_SPOT
+H200_OnDemand
