@@ -2,3 +2,5 @@ x-series==high availability
 nova-series==low availability
 orion-series==medium availability
 atlas-series==high availability
+k-series==high availability
+z-series==high availability
